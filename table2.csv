@@ -1,0 +1,10 @@
+Model Name,Layer,SAD,SAD-Mean,Layer,SAD,SAD-Mean
+albert-vase-v2,8,0.45,0.15,2,0.29,0.15
+bert-base-uncased,10,0.89,0.33,10,0.82,0.31
+bert-large-uncased,21,0.63,0.24,14,0.44,0.25
+distillbert-base-uncased,5,0.69,0.19,5,0.35,0.18
+distillroberta-base,3,0.42,0.14,5,0.38,0.16
+gpt2,4,1.17,0.18,4,0.25,0.09
+openai-gpt,11,12.4,0.7,12,0.48,0.1
+roberta-base,5,0.42,0.18,11,0.51,0.24
+roberta-large,10,0.5,0.23,1,0.43,0.28

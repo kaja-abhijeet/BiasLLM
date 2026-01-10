@@ -1,0 +1,8 @@
+Model,Crows-Pairs,Stereoset
+albert-base-v2,12,12
+bert-base-uncased,12,12
+bert-large-uncased,23,22
+distilbert-base-uncased,5,5
+distilroberta-base,6,6
+roberta-base,12,12
+roberta-large,10,24

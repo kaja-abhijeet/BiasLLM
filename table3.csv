@@ -1,0 +1,10 @@
+Model Name,Crows-Pairs,StereoSet,Crows-Pairs,StereoSet
+albert-vase-v2,12,1,12,1
+bert-base-uncased,1,1,1,1
+bert-large-uncased,1,1,1,1
+distillbert-base-uncased,1,1,1,1
+distillroberta-base,1,1,1,1
+gpt2,1,1,1,1
+openai-gpt,1,1,1,1
+roberta-base,1,1,1,1
+roberta-large,1,1,1,1
